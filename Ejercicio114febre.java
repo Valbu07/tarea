@@ -26,9 +26,9 @@ public class Ejercicio114febre {
             
             
         JOptionPane.showMessageDialog(null,(edad>=18) ? ("Puede Votar") : ("No puede votar"));
-        ciclo = Integer.parseInt(JOptionPane.showInputDialog("Digite 1 para repetir o 2 para terminar"));
+        ciclo = Integer.parseInt(JOptionPane.showInputDialog("Digite 0 para repetir o 2 para terminar"));
 
-        }while (ciclo ==1);
+        }while (ciclo ==0);
               
     }
     
