@@ -29,7 +29,7 @@ public class Ejercicio114febre {
         ciclo = Integer.parseInt(JOptionPane.showInputDialog("Digite 1 para repetir o 2 para terminar"));
 
         }while (ciclo ==1);
-              
+              //volvi a editar desde la rama Valbuena
     }
     
 }
